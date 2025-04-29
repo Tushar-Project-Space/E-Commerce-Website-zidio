@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+ul {
+  text-align: center;
+  color: #333;
+  padding: 1rem;
+}
+
+li {
+  list-style-type: none;
+}
